@@ -1,4 +1,4 @@
-a=6
-b=5
+a=50
+b=55
 sum=a+b
 print("the sum is "sum)
