@@ -1,4 +1,5 @@
-a=511
+a=512
 b=20
-sum=a+b
+c=20
+sum=a+b+c
 print("sum is:" sum)
